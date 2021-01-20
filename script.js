@@ -84,19 +84,16 @@
 
 // // Function that returns the sum of even numbers from zero to the parameter passed in (there is a bug in the function as it's written)
 
-// let myNumber = 7;
-
 //debug this function in Chrome Dev Tools, then VS Code
-// let myName = 'Allan';
+
+// let myNumber = 7;
 
 // function evenSum(num) {
 // 	for (let i = 0; i <= num; i += 2) {
-// 		myName = 'Steve';
 // 		let sum = 0;
 // 		sum += i;
 // 		//debugger;
 // 	}
-// 	myName = 'Roger';
 // 	return sum;
 // }
 
