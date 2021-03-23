@@ -126,7 +126,7 @@ function functionThree() {
 }
 
 //remember to call the function to trace it:
-functionThree();
+functionTwo();
 ```
 
 ## `console.log() with style`
